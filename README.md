@@ -5,7 +5,7 @@ This is my submission of Homework 1
 I took my CV (`/static/reference.pdf`) for the CSIS course submission and recreated it in HTML and CSS.
 You're also able to change the full name for this CV using custom URL path `/Your Full Name Here`
 
-- [x] Basic part
+- [x] [Basic part](https://sparin.github.io/)
 - [x] Advanced part
 
 ## Run
